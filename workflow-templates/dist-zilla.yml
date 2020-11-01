@@ -12,5 +12,3 @@ jobs:
   perl-job:
     steps:
       - uses: perlbot/action-dzil@latest
-        env:
-          EXTRA_DEPS: ""
